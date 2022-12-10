@@ -8,5 +8,15 @@
 * ##### *Discord:* Yauheni(AmazingApple4)#5685
 ---
 #### About me 
-
+##### *My name is Zhenya, I'm 24, I live in Belarus.*
+##### *I used to shoot videos on YouTube, now I'm trying myself in new areas.*
+---
+#### Skils
+* ##### *Adobe premiere pro*
+* ##### *Photoshop*
+* ##### *Git/Git_hub*
+---
+#### Languages
+* ##### *Russian*
+* ##### *English- studying.*
 
